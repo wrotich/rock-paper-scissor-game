@@ -42,7 +42,7 @@ Follow these steps to get the game up and running:
 ## File Structure
 
 - `game.rb`: Main Ruby script to execute the game.
-- Other files: Supporting scripts or configuration files (if applicable).
+- `game_test.rb`: Unit tests for the game.
 
 ## Future Enhancements
 
